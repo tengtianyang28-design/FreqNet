@@ -1,0 +1,14 @@
+# Core
+torch>=1.8.0
+torchvision
+
+# Detectron2 - install separately per platform, e.g.:
+# pip install 'git+https://github.com/facebookresearch/detectron2.git'
+# or see https://detectron2.readthedocs.io/en/latest/tutorials/install.html
+
+# Other
+fvcore
+Pillow
+matplotlib
+numpy
+opencv-python
